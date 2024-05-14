@@ -5,8 +5,8 @@
   That's why I like to make things that make a difference.</h3>
 
 - 🌱 I’m currently learning
-     - **Amazon aws
-     - Java Springboot and Hibernate**
+     -Amazon aws
+     -Java Springboot and Hibernate
 
 - 📫 How to reach me **viveksawaiyan8@gmail.com**
 
