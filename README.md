@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vivek Sawaiyan</h1>
-<h3 align="center">I am a Java Developer and gamer. I love programming and reading. As a Developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
+<h3 align="center">
+  I am a Java Developer and gamer. 
+  I love programming and reading. As a Developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. 
+  That's why I like to make things that make a difference.</h3>
 
-- 🌱 I’m currently learning **Amazon aws, Java Springboot and Hibernate**
+- 🌱 I’m currently learning
+     - **Amazon aws
+     - Java Springboot and Hibernate**
 
 - 📫 How to reach me **viveksawaiyan8@gmail.com**
 
