@@ -1,6 +1,8 @@
 # 💫 About Me:
 ### Talking about Personal Stuff:<br><br>- 👨‍🎓 I'm a **2nd Year BCA Student**<br>- 💬 Ask me about anything, I am happy to help<br>- 🌱 I'm currently learning:<br>  -Amazon AWS <br>  -Java Springboot and Hibernate	<br>- 📬 How to reach me: [viveksawaiyan8@gmail.com]
 
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justtt_viv3k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-sawaiyan-983698254) 
